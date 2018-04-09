@@ -1,1 +1,1 @@
-Write-Host "testing..."
+Write-Host "testing."
