@@ -1,1 +1,1 @@
-Write-Host 'Testing webhook'
+Write-Host 'Testing webhooks.'
