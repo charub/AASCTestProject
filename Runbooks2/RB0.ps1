@@ -1,1 +1,1 @@
-Write-Output "Test wrong folder"
+Write-Output "Test wrong folder."
