@@ -1,1 +1,1 @@
-Test
+Write-Output "Test wrong folder"
