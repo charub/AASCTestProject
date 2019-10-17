@@ -1,4 +1,4 @@
-Configuration MyDscConfiguration {
+Configuration TestConfiguration {
     Node "TEST-PC1" {
         WindowsFeature MyFeatureInstance {
             Ensure = 'Present'
@@ -10,4 +10,4 @@ Configuration MyDscConfiguration {
         }
     }
 }
-MyDscConfiguration
+TestConfiguration
